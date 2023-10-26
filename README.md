@@ -89,13 +89,29 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 
 ## Output:
 
-![269243654-ad4b83a1-00ea-4f72-990f-c196fd3bf178](https://github.com/greffinaprem/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475603/72b278a0-9e9f-4edd-b5be-324662420d47)
+1. Profit prediction graph
+   ![image](https://github.com/greffinaprem/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475603/73e5307f-56af-44c8-9e4f-fc1755e393df)
 
-![269244030-15b30287-f989-4456-8a8e-4bd3e5f5e2f5](https://github.com/greffinaprem/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475603/ec8dcc01-ce11-462a-afc5-448b7e7da070)
+2. Compute cost value
+   ![image](https://github.com/greffinaprem/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475603/16ccde2d-023e-40a0-8f58-97165aadde32)
 
-![269244268-a04f5f38-aecc-4d3e-87cd-11af9cac187e](https://github.com/greffinaprem/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475603/26944190-9a6f-4115-973c-e39e71770c1d)
+3. h(x) value
+   ![image](https://github.com/greffinaprem/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475603/dd7735b4-3f7b-4e1f-a8cc-52d0242570a3)
 
-![269244793-7014b73e-e6bb-42ec-8560-8df7bb841d75](https://github.com/greffinaprem/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475603/cefa285a-6eae-4337-9678-c2404572bae1)
+4. Cost function using gradient descent graph
+   ![image](https://github.com/greffinaprem/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475603/9e43d355-c96f-41c9-8cc8-b0c191c621b3)
+
+5. Profit prediction graph
+   ![image](https://github.com/greffinaprem/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475603/6101dc61-d613-40ab-bbd4-8991ca8cad1c)
+
+6. Profit for the population of 35000
+   ![image](https://github.com/greffinaprem/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475603/da8b0c2d-bcdd-48a2-a3b3-66618454dcf7)
+
+7. Profit for the population of 70000
+   ![image](https://github.com/greffinaprem/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475603/c31baf75-40f3-403d-a98f-35b78ffbef4b)
+
+
+
 
 
 ## Result:
